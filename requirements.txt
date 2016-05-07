@@ -1,0 +1,4 @@
+# Requirements to be installed within the standard virtualenv upon startup.
+
+django
+django-widget-tweaks
